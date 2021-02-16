@@ -227,7 +227,7 @@ def start(update: Update, context: CallbackContext):
                                 
                            
                             to your group",
-                                url="t./@animeone2{}?startgroup=true".format(
+                                url="t.me/@animeone2{}?startgroup=true".format(
                                     context.bot.username
                                 ),
                             )
